@@ -6,7 +6,7 @@ A Walker Module, Iteratively traverses the file structure, and returns an array 
 ### Installation
 =================
 
-npm install "walk-the-path"
+`npm install "walk-the-path"`
 
 ### Usage
 ==========
