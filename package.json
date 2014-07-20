@@ -1,0 +1,41 @@
+{
+  "name": "walk-the-path",
+  "version": "0.0.1",
+  "description": "Module to iteratively find all the files in the directory and subdirectory",
+  "main": "./lib/walker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RameshRM/walk-the-path.git"
+  },
+  "keywords": [
+    "files",
+    "find",
+    "all",
+    "files"
+  ],
+  "author": "RameshRM <rmrmail@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/RameshRM/walk-the-path/issues"
+  },
+  "homepage": "https://github.com/RameshRM/walk-the-path",
+  "dependencies": {
+    "mocha": "*",
+    "chai" : "*",
+    "esprima" : "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt": "~0.4.1",
+    "grunt-simple-mocha" : "*",
+    "grunt-cli": "~0.1.8"
+  }
+
+}
