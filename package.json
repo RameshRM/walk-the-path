@@ -1,6 +1,6 @@
 {
   "name": "walk-the-path",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module to iteratively find all the files in the directory and subdirectory",
   "main": "./lib/walker.js",
   "scripts": {
