@@ -11,7 +11,9 @@ npm install "walk-the-path"
 ### Usage
 ==========
 
+```Javascript
 var walker = require("walk-the-path");
 var options = {};
 var done = function(err, result){};
 walker.walk("./",options, done);
+```
