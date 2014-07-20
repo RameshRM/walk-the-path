@@ -4,7 +4,7 @@
   "description": "Module to iteratively find all the files in the directory and subdirectory",
   "main": "./lib/walker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
